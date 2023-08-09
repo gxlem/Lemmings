@@ -1,0 +1,40 @@
+300
+100
+1
+120
+204
+50
+8
+1
+80
+1
+8
+8
+8
+8
+8
+1
+3
+777
+255
+
+//explication
+
+posX du spawn
+posY du spawn
+posX du outsider
+posY du outsider
+frequence du spawnage
+nb lemmings
+couleur de l'air
+condition victoire en %
+StopperLimit
+BomberLimit
+BuilderLimit
+BasherLimit
+MinerLimit
+ExcavaterLimit
+nb Spitfire (pour l instant 0 ou 1)
+cadance de tir
+posX du spitFire
+posY du spitFire
